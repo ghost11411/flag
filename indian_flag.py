@@ -65,7 +65,7 @@ for i in range(24):
     t.right(15)
     t.pendown()
 
-t.speed(0.5)
+t.speed(1)
 
 t.penup()
 t.goto(20, 0)
